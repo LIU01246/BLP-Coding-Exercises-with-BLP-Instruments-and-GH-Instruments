@@ -1,1 +1,1 @@
-# BLP-Exercise-with-BLP-Instruments-and-GH-Instruments
+# BLP-Exercises-with-BLP-Instruments-and-GH-Instruments
